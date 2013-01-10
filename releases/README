@@ -1,0 +1,9 @@
+name：qiailin
+QQ：172794299
+email:qiailin@gmail.com
+
+if you want to deploy you jar to release , you can do it like this.
+the jar you can download from other website.
+
+eg.(
+mvn deploy:deploy-file -DgroupId=mysql -DartifactId=mysql-connector-java -Dversion=5.1.22 -Dpackaging=jar -Dfile="mysql-connector-java-5.1.22.jar" -Durl=file:../nexus/releases)

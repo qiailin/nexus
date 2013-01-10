@@ -6,7 +6,7 @@ if you want to deploy you jar to snapshot , you can do it like this.
 the jar you can download from other website.
 
 eg.(
-mvn -DaltDeploymentRepository=qiailin-snapshots::default::file:/home/qiailin/development/nexus/snapshots clean deploy
+mvn -DaltDeploymentRepository=snapshot-repo::default::file:/home/qiailin/development/nexus/snapshots clean deploy
 )
 
 
