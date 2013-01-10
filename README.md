@@ -1,6 +1,10 @@
 Using GitHub as a Personal Maven Repository
 =====
 
+name : qiailin
+email: qiailin@gmail.com
+qq:172794299
+
 Sometime you are in need for a maven repository accessible from the net which is under your control. Reasons might be:
 
     a 3rd-party lib is not on Maven central or the desired version is missing
