@@ -374,8 +374,14 @@ qiailin@localhost:~/development/nexus$
       email:qiailin@gmail.com 
       QQ:172794299
      "https://github.com/qiailin" 以后会定期更新  ，
-      第一篇为 nexus，接下来可能会有 SCM 托管项目 源码都会放在上面
- 
+      a.第一篇为 nexus，接下来可能会有 SCM 托管项目 源码都会放在上面
+      b.包括 redhat+flex+springmvc+maven+continuum+git 的持续交互、持续集成、自动化测试
+      c.linux 源码学习 、Java jvm运行机制 、linux 网络编程
+      d.移动手机软件开发eg: android  目前只有 android ;  ios 正在学习当中
+      c.tomcat 工作原理 、自制简易tomcat ，jetty 运行原理 自制简易的jetty
+      d.erp 工作流进阶 开源框架源码研究
+
+记录一年的奋斗史 
 
 
 	
