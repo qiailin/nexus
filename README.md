@@ -367,6 +367,9 @@ qiailin@localhost:~/development/nexus$
     … name :qiailin
       email:qiailin@gmail.com 
       QQ:172794299
+     "https://github.com/qiailin" 以后会定期更新  ，
+      第一篇为 nexus，接下来可能会有 SCM 托管项目 源码都会放在上面
+ 
 
 
 	
