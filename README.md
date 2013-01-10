@@ -364,7 +364,9 @@ To git@github.com:qiailin/nexus.git
    56cc8db..201e390  master -> master
 qiailin@localhost:~/development/nexus$ 
 
-    …
+    … name :qiailin
+      email:qiailin@gmail.com 
+      QQ:172794299
 
 
 	
